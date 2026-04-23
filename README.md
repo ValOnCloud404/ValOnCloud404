@@ -1,7 +1,6 @@
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/084b6ac7-0693-4a92-81d3-7114218e849b" />
 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=☁️+Welcome+to+ValOnCloud404+☁️;💜+Head+in+the+clouds+%7C+Hands+on+the+keyboard+💜;⚡+PowerShell+%7C+🔐+Active+Directory+%7C+💙+Azure+⚡" alt="Typing SVG" />
 </p>
@@ -24,11 +23,7 @@
 
 ## ☁️ About Me
 
-<table>
-<tr>
-<td width="65%">
-
-Hi, I’m **Valentina** — also known as **ValOnCloud404** 💜☁️
+☁️💜 Hi, I’m **Valentina** — also known as **ValOnCloud404** 💜☁️
 
 Welcome to my page. This is my little corner of the cloud where daydreams turn into real builds, real labs, and real projects.
 
