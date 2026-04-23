@@ -1,125 +1,169 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/084b6ac7-0693-4a92-81d3-7114218e849b" />
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/banner.png" alt="ValOnCloud404 Banner" width="100%" />
 </p>
 
-<h1 align="center">☁️ ValOnCloud404 ☁️</h1>
-<h3 align="center">Cloud-minded. Directory-driven. Always building.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=☁️+Welcome+to+ValOnCloud404+☁️;💜+Head+in+the+clouds+%7C+Hands+on+the+keyboard+💜;⚡+PowerShell+%7C+🔐+Active+Directory+%7C+💙+Azure+⚡" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Cloud-minded • Directory-driven • Always building 💜☁️</h3>
 
 <p align="center">
-  ☁️ Cloud Architect in the making &nbsp;•&nbsp;
-  🧠 Always daydreaming about AD & Azure &nbsp;•&nbsp;
-  🔐 Security | Identity | Automations
+  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/cloud-left.gif" width="90" alt="floating cloud"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PowerShell-6D28D9?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-7C3AED?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-8B5CF6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra%20ID-A855F7?style=for-the-badge&logo=microsoft&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/cloud-right.gif" width="90" alt="floating cloud"/>
 </p>
 
 ---
 
 ## ☁️ About Me
 
-Hi, I’m Valentina — also known as **ValOnCloud404**.
+<table>
+<tr>
+<td width="65%">
 
-My GitHub is where cloud daydreams turn into real projects. I’m building and documenting my journey through:
+Hi, I’m **Valentina** — also known as **ValOnCloud404** 💜☁️
 
-- ☁️ Active Directory
-- 💙 Azure
-- 🔐 Microsoft Entra ID
-- ⚡ PowerShell Automation
-- 🖥️ Windows Server
-- 📚 Technical Documentation
-- 🛠️ Hands-on labs and project builds
+Welcome to my page. This is my little corner of the cloud where daydreams turn into real builds, real labs, and real projects.
 
-I keep my **head in the clouds** ☁️ and my **hands on the keyboard** ⌨️
+I’m growing my skills in:
+
+- ⚡ **PowerShell** for automation and admin tasks  
+- 🔐 **Active Directory** for users, groups, OUs, GPOs, and identity basics  
+- 💙 **Azure** and **Microsoft Entra ID** for cloud and hybrid identity  
+- 🖥️ **Windows Server** and lab environments  
+- 📚 **Documentation** that makes technical topics easier to follow  
+
+I love building projects that feel hands-on, useful, and beginner-friendly — the kind of projects that help me learn and help other people learn too.
+
+💭 Basically: my head stays in the clouds, but I’m daydreaming about **PowerShell, Active Directory, Azure, identity, and automation**.
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/mini-cloud.gif" width="180" alt="cute cloud"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌙 Current Vibe
+## ✨ Welcome To My Page
 
-- ☁️ Cloud Architect in the making
-- 🧠 Always daydreaming about AD & Azure
-- 🔐 Security | Identity | Automations
-- 📍 In the cloud, thinking at 404 altitude
-- 🌙 Night owl. Code. Document. Repeat.
-- ☕ Powered by caffeine and configs
+<p align="center">
+  💜 Cute. Cloudy. Technical. Dreamy. <br/>
+  ☁️ A purple little world built around PowerShell, Active Directory, Azure, and identity. ☁️
+</p>
 
 ---
 
-## ✨ Featured Projects
+## 🌌 Cloud Thoughts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️-Head%20in%20the%20Clouds-C084FC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💭-Daydreaming%20About%20Tech-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡-Automate%20Everything-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐-Identity%20Is%20Everything-7E22CE?style=for-the-badge" />
+</p>
+
+---
+
+## 💜 Featured Projects
 
 <table>
-  <tr>
-    <td width="25%">
-      <h3>🧪 AD-Lab</h3>
-      <p>Step-by-step Active Directory lab builds, from forest setup to GPO mastery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Active%20Directory-1f2937?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Lab-1f2937?style=for-the-badge" />
-      </p>
-    </td>
-    <td width="25%">
-      <h3>💙 Azure-AD-Guide</h3>
-      <p>Everything you need to understand Microsoft Entra ID and Azure AD deeply.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Azure-1f2937?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Entra%20ID-1f2937?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Docs-1f2937?style=for-the-badge" />
-      </p>
-    </td>
-    <td width="25%">
-      <h3>🔐 Hybrid-Identity</h3>
-      <p>Hybrid identity solutions with AD Connect, SSO, and Conditional Access.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Azure-1f2937?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/AD-1f2937?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/SSO-1f2937?style=for-the-badge" />
-      </p>
-    </td>
-    <td width="25%">
-      <h3>⚡ Cloud-Automations</h3>
-      <p>PowerShell and automation scripts for cloud and identity tasks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell-1f2937?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Automation-1f2937?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### ⚡ PowerShell Playground
+Scripts for automation, admin tasks, and learning PowerShell one build at a time.
+
+<img src="https://img.shields.io/badge/PowerShell-6D28D9?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-C084FC?style=flat-square" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 AD Lab
+Hands-on Active Directory projects focused on users, groups, OUs, GPOs, and domain basics.
+
+<img src="https://img.shields.io/badge/Active%20Directory-7C3AED?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Server-A855F7?style=flat-square" />
+
+</td>
+<td width="33%" valign="top">
+
+### 💙 Azure Dreams
+Cloud projects focused on Azure, Entra ID, RBAC, identity, and hybrid learning.
+
+<img src="https://img.shields.io/badge/Azure-8B5CF6?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Entra%20ID-C084FC?style=flat-square" />
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🌙 Vibe Check
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/vibe-cloud.gif" width="120" alt="cloud vibe"/>
+</p>
+
+<p align="center">
+  ☁️ Cloud Architect in the making <br/>
+  💭 Always daydreaming about AD, Azure, and automation <br/>
+  🔐 Security • Identity • Admin energy <br/>
+  🌙 Night owl • Learn • Build • Document • Repeat <br/>
+  ☕ Powered by caffeine and configs
+</p>
+
+<p align="center">
+  <b>“I don’t just work in the cloud, I daydream it into reality.”</b>
+</p>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Azure-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0f172a?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entra%20ID-0f172a?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-0f172a?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-0f172a?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-0f172a?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-0f172a?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&logo=autohotkey&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-2E1065?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-3B0764?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra%20ID-581C87?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-6B21A8?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-7E22CE?style=for-the-badge&logo=windowsserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-A855F7?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [valentina-scott-855010385](https://www.linkedin.com/in/valentina-scott-855010385/)
-- 🐙 GitHub: [ValOnCloud404](https://github.com/ValOnCloud404)
-
----
-
-## ☁️ Little Bit of Personality
-
-> 🌙 Some people count sheep to sleep.  
-> ☁️ I count domains, trusts, and subscriptions.
+<p align="center">
+  <a href="https://github.com/ValOnCloud404">
+    <img src="https://img.shields.io/badge/GitHub-581C87?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/valentina-scott-855010385/">
+    <img src="https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValOnCloud404&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValOnCloud404&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ValOnCloud404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValOnCloud404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF" height="165" />
 </p>
