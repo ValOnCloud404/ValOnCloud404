@@ -44,7 +44,7 @@ I’m growing my skills in:
 
 I love building projects that feel hands-on, useful, and beginner-friendly — the kind of projects that help me learn and help other people learn too.
 
-💭 Basically: my head stays in the clouds, but I’m daydreaming about **PowerShell, Active Directory, Azure, identity, and automation**.
+💭  My head maybe in the clouds, but I’m daydreaming about **PowerShell, Active Directory, Azure, identity, and automation**.
 
 </td>
 <td width="35%" align="center">
@@ -60,8 +60,8 @@ I love building projects that feel hands-on, useful, and beginner-friendly — t
 ## ✨ Welcome To My Page
 
 <p align="center">
-  💜 Cute. Cloudy. Technical. Dreamy. <br/>
-  ☁️ A purple little world built around PowerShell, Active Directory, Azure, and identity. ☁️
+  💜 I keep my **head in the clouds** ☁️ and my **hands on the keyboard** ⌨️. <br/>
+  ☁️ A purple little world built around PowerShell, Active Directory, Azure, and Identity. ☁️
 </p>
 
 ---
