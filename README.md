@@ -60,6 +60,7 @@ I love building projects that feel hands-on, useful, and beginner-friendly — t
 ---
 
 ## 🌌 Cloud Thoughts
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/ccbd8b42-5cbf-4d62-85c0-e842c5f62d1e" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/☁️-Head%20in%20the%20Clouds-C084FC?style=for-the-badge" />
