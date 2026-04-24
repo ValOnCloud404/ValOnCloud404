@@ -42,7 +42,7 @@ I love building projects that feel hands-on, useful, and beginner-friendly — t
 </td>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/mini-cloud.gif" width="180" alt="cute cloud"/>
+
 
 </td>
 </tr>
@@ -60,7 +60,12 @@ I love building projects that feel hands-on, useful, and beginner-friendly — t
 ---
 
 ## 🌌 Cloud Thoughts
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/ccbd8b42-5cbf-4d62-85c0-e842c5f62d1e" />
+<p align="center">
+  <img width="280" alt="ValOnCloud404 Cloud Avatar" src="https://github.com/user-attachments/assets/ccbd8b42-5cbf-4d62-85c0-e842c5f62d1e" />
+</p>
+<p align="center">
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/☁️-Head%20in%20the%20Clouds-C084FC?style=for-the-badge" />
