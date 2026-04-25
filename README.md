@@ -21,7 +21,11 @@
 ---
 
 
-## ☁️ About Me
+<div align="center">
+
+# ☁️💜 About Me 💜☁️
+
+</div>
 
 ☁️💜 Hi, I’m **Valentina** — also known as **ValOnCloud404** 💜☁️
 
