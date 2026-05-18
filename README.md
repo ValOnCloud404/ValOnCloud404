@@ -8,14 +8,23 @@
 <h3 align="center">Cloud-minded • Directory-driven • Always building 💜☁️</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/cloud-left.gif" width="90" alt="floating cloud"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PowerShell-6D28D9?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-7C3AED?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-8B5CF6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entra%20ID-A855F7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/cloud-right.gif" width="90" alt="floating cloud"/>
+
+<a href="./Active-Directory">
+  <img src="https://img.shields.io/badge/🔐%20Active%20Directory-C084FC?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="./Azure">
+  <img src="https://img.shields.io/badge/☁️%20Azure-A855F7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="./PowerShell">
+  <img src="https://img.shields.io/badge/⚡%20PowerShell-9333EA?style=for-the-badge&logo=powershell&logoColor=white" />
+</a>
+
+<a href="./Entra-ID">
+  <img src="https://img.shields.io/badge/🧠%20Entra%20ID-7E22CE?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
 </p>
 
 ---
