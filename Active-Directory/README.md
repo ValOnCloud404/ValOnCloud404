@@ -70,7 +70,7 @@
 <!-- TYPING SVG — AD only -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=🔐+What+is+Active+Directory%3F+Let's+break+it+down.;👤+Users+%7C+💻+Computers+%7C+📁+OUs+%7C+🏢+Groups;🔐+One+login.+Every+computer.+Zero+chaos.;📋+GPOs+push+policies+so+admins+don't+have+to.;☁️+AD+is+the+backbone+of+enterprise+identity.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=🔐+What+is+Active+Directory%3F+Let's+break+it+down.;👤+Users+%7C+💻+Computers+%7C+📁+OUs+%7C+🏢+Groups;🔐+One+login.+Every+computer.+Zero+chaos.;📋+GPOs+push+policies+so+admins+don't+have+to.;☁️+AD+is+the+backbone+of+enterprise+identity.)](https://git.io/typing-svg)
 
 </div>
 
@@ -163,7 +163,7 @@ Every mid-to-large company running Windows is running Active Directory. It's one
       WITHOUT ACTIVE DIRECTORY             WITH ACTIVE DIRECTORY
     ┌──────────────────────────┐       ┌──────────────────────────┐
     │  IT sets up every PC     │       │  IT creates one account  │
-    │  one at a time 😰        │  vs.  │  in AD — done ✅         │
+    │  one at a time 😰        |  vs.  │  in AD — done ✅         │
     │  200 logins to manage    │       │  Policies apply itself   │
     │  No central control      │       │  Access follows the user │
     └──────────────────────────┘       └──────────────────────────┘
