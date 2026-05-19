@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/☁️%20Azure-A855F7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
-<a href="./PowerShell">
+<a href="./PowerShell.md">
   <img src="https://img.shields.io/badge/⚡%20PowerShell-9333EA?style=for-the-badge&logo=powershell&logoColor=white" />
 </a>
 
-<a href="./Entra-ID">
+<a href="./Entra-ID.md">
   <img src="https://img.shields.io/badge/🧠%20Entra%20ID-7E22CE?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
