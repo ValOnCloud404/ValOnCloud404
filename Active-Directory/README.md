@@ -1,4 +1,5 @@
-<!-- BANNER -->
+<img width="1883" height="835" alt="image" src="https://github.com/user-attachments/assets/96556933-8bdf-491d-bb1b-0ce86ff33791" />
+
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900">
   <defs>
@@ -48,15 +49,15 @@
   <!-- Bottom accent line -->
   <rect x="0" y="177" width="900" height="3" fill="url(#line)" rx="2"/>
   <!-- Lock icon left -->
-  <text x="100" y="100" font-size="36" text-anchor="middle" fill="#C084FC" fill-opacity="0.25" filter="url(#glow)">🔐</text>
+  <text x="100" y="100" font-size="36" text-anchor="middle" fill="#C084FC" fill-opacity="0.25" filter="url(#glow)"
   <!-- Cloud icon right -->
-  <text x="800" y="100" font-size="36" text-anchor="middle" fill="#C084FC" fill-opacity="0.25" filter="url(#glow)">☁️</text>
+  <text x="800" y="100" font-size="36" text-anchor="middle" fill="#C084FC" fill-opacity="0.25" filter="url(#glow)"
   <!-- Main title -->
-  <text x="450" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="url(#title)" filter="url(#glow)">Active Directory Lab</text>
+  <text x="450" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="url(#title)" filter="url(#glow)"
   <!-- Divider -->
   <rect x="300" y="98" width="300" height="1" fill="url(#line)" opacity="0.6"/>
   <!-- Subtitle -->
-  <text x="450" y="125" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="#A855F7" letter-spacing="3">by ValOnCloud404 ☁️ 💜</text>
+  <text x="450" y="125" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="#A855F7" letter-spacing="3">
   <!-- Corner brackets -->
   <path d="M20,15 L20,5 L30,5" stroke="#9333EA" stroke-width="2" fill="none" stroke-opacity="0.6"/>
   <path d="M880,15 L880,5 L870,5" stroke="#9333EA" stroke-width="2" fill="none" stroke-opacity="0.6"/>
@@ -309,3 +310,4 @@ She can now log into **any computer in the hospital** — her files, her access,
   <text x="450" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="13" text-anchor="middle" fill="#A855F7" letter-spacing="2">☁️ Head in the clouds. Hands on the keyboard. Always building. 💜</text>
 </svg>
 </div>
+<img width="1883" height="835" alt="image" src="https://github.com/user-attachments/assets/96556933-8bdf-491d-bb1b-0ce86ff33791" />
