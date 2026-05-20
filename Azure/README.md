@@ -1,6 +1,5 @@
-<h1 align="center">☁️ Azure Learning Hub README☁️ </h1>
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/8da11631-ac57-457b-bb3d-683ff383c5fe" />
 
-<!-- BANNER -->
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900">
   <defs>
@@ -50,16 +49,15 @@
   <!-- Bottom accent line -->
   <rect x="0" y="177" width="900" height="3" fill="url(#line)" rx="2"/>
   <!-- Cloud icon left -->
-  <text x="100" y="100" font-size="36" text-anchor="middle" fill="#38BDF8" fill-opacity="0.25" filter="url(#glow)">☁️</text>
+  <text x="100" y="100" font-size="36" text-anchor="middle" fill="#38BDF8" fill-opacity="0.25" filter="url(#glow)"
   <!-- Azure icon right -->
-  <text x="800" y="100" font-size="36" text-anchor="middle" fill="#38BDF8" fill-opacity="0.25" filter="url(#glow)">⚡</text>
+  <text x="800" y="100" font-size="36" text-anchor="middle" fill="#38BDF8" fill-opacity="0.25" filter="url(#glow)">
   <!-- Main title -->
-  <text x="450" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="url(#title)" filter="url(#glow)">Azure Learning Hub</text>
+  <text x="450" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="url(#title)" filter="url(#glow)"
   <!-- Divider -->
   <rect x="300" y="98" width="300" height="1" fill="url(#line)" opacity="0.6"/>
   <!-- Subtitle -->
-  <text x="450" y="125" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="#38BDF8" letter-spacing="3">by ValOnCloud404 ☁️ 💙</text>
-  <!-- Corner brackets -->
+  <text x="450" y="125" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="#38BDF8" letter-spacing="3"
   <path d="M20,15 L20,5 L30,5" stroke="#0EA5E9" stroke-width="2" fill="none" stroke-opacity="0.6"/>
   <path d="M880,15 L880,5 L870,5" stroke="#0EA5E9" stroke-width="2" fill="none" stroke-opacity="0.6"/>
   <path d="M20,165 L20,175 L30,175" stroke="#0EA5E9" stroke-width="2" fill="none" stroke-opacity="0.6"/>
@@ -408,3 +406,4 @@ A **Resource Group** is a container that holds related Azure resources together.
   <text x="450" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="13" text-anchor="middle" fill="#38BDF8" letter-spacing="2">☁️ Head in the clouds. Hands on the keyboard. Always building. 💙</text>
 </svg>
 </div>
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d757e6c9-0ee3-4290-aed3-3e504b10b257" />
