@@ -68,7 +68,7 @@
 <!-- AVATAR + BADGES -->
 <div align="center">
 
-<img width="200" alt="ValOnCloud404 Cloud Avatar" src="https://github.com/user-attachments/assets/ccbd8b42-5cbf-4d62-85c0-e842c5f62d1e" />
+<img width="300" alt="ValOnCloud404 Cloud Avatar" src="https://github.com/user-attachments/assets/ccbd8b42-5cbf-4d62-85c0-e842c5f62d1e" />
 
 <br/><br/>
 
