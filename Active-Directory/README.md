@@ -1,4 +1,3 @@
-<img width="1883" height="835" alt="image" src="https://github.com/user-attachments/assets/96556933-8bdf-491d-bb1b-0ce86ff33791" />
 
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900">
