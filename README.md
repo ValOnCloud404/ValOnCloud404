@@ -1,3 +1,27 @@
+<div align="center">
+  <svg width="100%" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .sc{fill:#C084FC;opacity:.85;animation:sf 10s ease-in-out infinite alternate}
+      .sc2{fill:#A855F7;opacity:.7;animation:sf 13s ease-in-out infinite alternate}
+      .sc3{fill:#D8B4FE;opacity:.9;animation:sf 8s ease-in-out infinite alternate}
+      .star{fill:#E9D5FF;animation:tw 3s ease-in-out infinite alternate}
+      .star2{fill:#C084FC;animation:tw 5s ease-in-out infinite alternate}
+      @keyframes sf{from{transform:translateX(-20px) translateY(0)}to{transform:translateX(20px) translateY(-12px)}}
+      @keyframes tw{from{opacity:.2}to{opacity:1}}
+    </style>
+    <circle class="star" cx="30" cy="20" r="2"/>
+    <circle class="star2" cx="200" cy="10" r="1.5"/>
+    <circle class="star" cx="500" cy="15" r="2"/>
+    <circle class="star2" cx="750" cy="8" r="1.5"/>
+    <circle class="star" cx="870" cy="25" r="2"/>
+    <circle class="star2" cx="130" cy="130" r="1.5"/>
+    <circle class="star" cx="820" cy="140" r="2"/>
+    <circle class="star2" cx="450" cy="145" r="1.5"/>
+    <g class="sc" transform="translate(50,45)"><ellipse cx="60" cy="40" rx="58" ry="30"/><ellipse cx="32" cy="36" rx="30" ry="27"/><ellipse cx="78" cy="22" rx="38" ry="35"/><ellipse cx="110" cy="38" rx="34" ry="28"/></g>
+    <g class="sc2" transform="translate(340,20)"><ellipse cx="65" cy="42" rx="65" ry="32"/><ellipse cx="38" cy="36" rx="32" ry="29"/><ellipse cx="80" cy="20" rx="42" ry="38"/><ellipse cx="118" cy="40" rx="36" ry="30"/></g>
+    <g class="sc3" transform="translate(650,50)"><ellipse cx="55" cy="38" rx="52" ry="27"/><ellipse cx="32" cy="33" rx="28" ry="25"/><ellipse cx="70" cy="22" rx="36" ry="32"/><ellipse cx="105" cy="36" rx="32" ry="26"/></g>
+  </svg>
+</div>
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/084b6ac7-0693-4a92-81d3-7114218e849b" />
 
 
