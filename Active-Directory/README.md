@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/a139dafe-e588-4d75-87f0-8bccab2a9914" />
 
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900">
@@ -309,4 +310,3 @@ She can now log into **any computer in the hospital** — her files, her access,
   <text x="450" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="13" text-anchor="middle" fill="#A855F7" letter-spacing="2">☁️ Head in the clouds. Hands on the keyboard. Always building. 💜</text>
 </svg>
 </div>
-<img width="1883" height="835" alt="image" src="https://github.com/user-attachments/assets/96556933-8bdf-491d-bb1b-0ce86ff33791" />
