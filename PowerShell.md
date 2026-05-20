@@ -1,6 +1,6 @@
-<h1 align="center">⚡ PowerShell Learning Hub</h1>
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/dc9ec820-2c19-42e2-87d9-0f8c257b0e2d" />
 
-<!-- BANNER -->
+
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900">
   <defs>
@@ -456,3 +456,4 @@ Set-MgUserLicense -UserId "jsmith@valoncloud.com" `
   <text x="450" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="13" text-anchor="middle" fill="#34D399" letter-spacing="2">⚡ Automate the boring stuff. Build the cool stuff. Always learning. 💚</text>
 </svg>
 </div>
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/cf16f180-70ba-44b6-aa3d-461f0d6acf7c" />
