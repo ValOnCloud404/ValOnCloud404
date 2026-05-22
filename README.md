@@ -36,11 +36,11 @@
 
 </div>
 
-☁️💜 Hi, I’m **Valentina** — also known as **ValOnCloud404** 💜☁️
+☁️💜 Hi, I'm **Val** — also known as **ValOnCloud404** 💜☁️
 
 Welcome to my page. This is my little corner of the cloud where daydreams turn into real builds, real labs, and real projects.
 
-I’m growing my skills in:
+I'm growing my skills in:
 
 - ⚡ **PowerShell** for automation and admin tasks  
 - 🔐 **Active Directory** for users, groups, OUs, GPOs, and identity basics  
@@ -48,9 +48,9 @@ I’m growing my skills in:
 - 🖥️ **Windows Server** and lab environments  
 - 📚 **Documentation** that makes technical topics easier to follow  
 
-I love building projects that feel hands-on, useful, and beginner-friendly — the kind of projects that help me learn and help other people learn too.
+I build labs and I break them , honestly! At this point the breaking is basically a feature. 😂 You'll see plenty of evidence of both in here. I stare at the screen for 45 minutes, restart a VM and act like it never happened, then document everything and pretend I meant to do that the whole time. If you're a beginner looking for hands-on projects that actually make sense — with zero judgment for googling the basics — you're in exactly the right place. These are the labs I *wished* existed when I was starting out.
 
-💭  My head maybe in the clouds, but I’m daydreaming about **PowerShell, Active Directory, Azure, identity, and automation**.
+💭 My head floats up to the clouds every now and then — mostly when I'm daydreaming about PowerShell, Active Directory, Azure, identity, and automation. The rest of the time I'm just trying to figure out why my script ran fine yesterday. (And yes, I have googled "why is AD not working" more than once. More than twice. We don't talk about it. 😂)
 
 </td>
 <td width="35%" align="center">
@@ -96,7 +96,7 @@ I love building projects that feel hands-on, useful, and beginner-friendly — t
 <td width="33%" valign="top">
 
 ### ⚡ PowerShell Playground
-Scripts for automation, admin tasks, and learning PowerShell one build at a time.
+Scripts for automation, admin tasks, and learning PowerShell one "aha!" moment at a time. Fair warning: you might actually start enjoying scripting.
 
 <img src="https://img.shields.io/badge/PowerShell-6D28D9?style=flat-square&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation-C084FC?style=flat-square" />
@@ -105,7 +105,7 @@ Scripts for automation, admin tasks, and learning PowerShell one build at a time
 <td width="33%" valign="top">
 
 ### 🔐 AD Lab
-Hands-on Active Directory projects focused on users, groups, OUs, GPOs, and domain basics.
+Hands-on Active Directory projects covering users, groups, OUs, GPOs, and domain basics. Built from scratch, documented like a pro — broken at least twice before getting there.
 
 <img src="https://img.shields.io/badge/Active%20Directory-7C3AED?style=flat-square&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows%20Server-A855F7?style=flat-square" />
@@ -114,7 +114,7 @@ Hands-on Active Directory projects focused on users, groups, OUs, GPOs, and doma
 <td width="33%" valign="top">
 
 ### 💙 Azure Dreams
-Cloud projects focused on Azure, Entra ID, RBAC, identity, and hybrid learning.
+Cloud projects focused on Azure, Entra ID, RBAC, identity, and hybrid learning. No gatekeeping — just real learning, shared openly.
 
 <img src="https://img.shields.io/badge/Azure-8B5CF6?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Entra%20ID-C084FC?style=flat-square" />
@@ -132,15 +132,15 @@ Cloud projects focused on Azure, Entra ID, RBAC, identity, and hybrid learning.
 </p>
 
 <p align="center">
-  ☁️ Cloud Architect in the making <br/>
-  💭 Always daydreaming about AD, Azure, and automation <br/>
-  🔐 Security • Identity • Admin energy <br/>
-  🌙 Night owl • Learn • Build • Document • Repeat <br/>
-  ☕ Powered by caffeine and configs
+  ☁️ Cloud Architect in the making (she's getting there!) <br/>
+  💭 Constantly daydreaming about AD, Azure, and automation <br/>
+  🔐 Security • Identity • "wait let me document this first" energy <br/>
+  🌙 Night owl • Learn • Break • Fix • Document • Repeat <br/>
+  ☕ Fueled by caffeine, configs, and curiosity
 </p>
 
 <p align="center">
-  <b>“I don’t just work in the cloud, I daydream it into reality.”</b>
+  <b>"I don't just work in the cloud — I daydream it into reality, one broken lab at a time."</b>
 </p>
 
 ---
@@ -179,3 +179,4 @@ Cloud projects focused on Azure, Entra ID, RBAC, identity, and hybrid learning.
   <img src="https://github-readme-stats.vercel.app/api?username=ValOnCloud404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValOnCloud404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF" height="165" />
 </p>
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/0caa9217-b14f-4fd5-9f2d-d9b9a9ed5283" />
