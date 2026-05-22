@@ -43,11 +43,11 @@
   <circle cx="700" cy="155" r="1.5" fill="#A7F3D0" fill-opacity="0.3"/>
   <rect x="0" y="0" width="900" height="3" fill="url(#psline)" rx="2"/>
   <rect x="0" y="177" width="900" height="3" fill="url(#psline)" rx="2"/>
-  <text x="100" y="100" font-size="36" text-anchor="middle" fill="#10B981" fill-opacity="0.25" filter="url(#psglow)">⚡</text>
-  <text x="800" y="100" font-size="36" text-anchor="middle" fill="#10B981" fill-opacity="0.25" filter="url(#psglow)">💻</text>
-  <text x="450" y="82" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="url(#pstitle)" filter="url(#psglow)">PowerShell Learning Hub</text>
+  <text x="100" y="100" font-size="36" text-anchor="middle" fill="#10B981" fill-opacity="0.25" filter="url(#psglow)"
+  <text x="800" y="100" font-size="36" text-anchor="middle" fill="#10B981" fill-opacity="0.25" filter="url(#psglow)">
+  <text x="450" y="82" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="url(#pstitle)" filter="url(#psglow)"
   <rect x="300" y="96" width="300" height="1" fill="url(#psline)" opacity="0.6"/>
-  <text x="450" y="123" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="#34D399" letter-spacing="3">by ValOnCloud404 ⚡ 💚</text>
+  <text x="450" y="123" font-family="'Segoe UI', Arial, sans-serif" font-size="14" text-anchor="middle" fill="#34D399" letter-spacing="3"
   <path d="M20,15 L20,5 L30,5" stroke="#10B981" stroke-width="2" fill="none" stroke-opacity="0.6"/>
   <path d="M880,15 L880,5 L870,5" stroke="#10B981" stroke-width="2" fill="none" stroke-opacity="0.6"/>
   <path d="M20,165 L20,175 L30,175" stroke="#10B981" stroke-width="2" fill="none" stroke-opacity="0.6"/>
