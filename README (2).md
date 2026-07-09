@@ -1,0 +1,301 @@
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=FF69B4&center=true&vCenter=true&width=1000&lines=☁️+Welcome+to+My+Cloud+Home+☁️;✨+House+of+Valentina+Esperanza+✨;💄+Building+the+Future+of+Beauty+Tech+💄;🤖+AI+for+Beautiful+Customer+Experiences+🤖;☁️+Dreaming+in+Azure+☁️;⚡+Building+One+Commit+at+a+Time+⚡;🔐+Identity+is+Always+in+Style+🔐;🌸+Where+Cloud+Daydreams+Become+Beautiful+Technology+🌸" alt="Typing SVG" />
+</p>
+
+<h3 align="center">💄 Beauty Tech • 🤖 AI • ☁️ Cloud • 🔐 Identity • ⚡ Automation</h3>
+
+<p align="center">
+<a href="https://github.com/ValOnCloud404/Beauty-Tech">
+  <img src="https://img.shields.io/badge/💄%20Beauty%20Tech-FF69B4?style=for-the-badge" />
+</a>
+<a href="https://github.com/ValOnCloud404/AI-Atelier">
+  <img src="https://img.shields.io/badge/🤖%20AI%20Atelier-87CEEB?style=for-the-badge" />
+</a>
+<a href="https://github.com/ValOnCloud404/Cloud-Lounge">
+  <img src="https://img.shields.io/badge/☁️%20Cloud%20Lounge-66CCFF?style=for-the-badge" />
+</a>
+<a href="https://github.com/ValOnCloud404/Identity-Suite">
+  <img src="https://img.shields.io/badge/🔐%20Identity%20Suite-C084FC?style=for-the-badge" />
+</a>
+<a href="https://github.com/ValOnCloud404/Automation-Studio">
+  <img src="https://img.shields.io/badge/⚡%20Automation%20Studio-FFD700?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+# 💋 The Founder 💋
+
+*Every great house has a story.*
+
+</div>
+
+💄✨ Hi, I'm **Valentina** — founder of the **House of Valentina Esperanza** and proud resident of **ValOnCloud404** ✨☁️
+
+Welcome to my page. This is my little corner of the cloud where beauty, AI, identity, automation, and real projects come together.
+
+Before I was spinning up Azure resources, writing Python scripts, or wondering why Active Directory was acting brand new, I spent over a decade in the beauty industry as a licensed esthetician, educator, leader and backed with a degree in Biology.
+
+Beauty taught me how to understand people, create memorable experiences, solve problems quickly, and help others feel confident.
+
+Then I discovered cloud computing.
+
+Somewhere between my first Azure lab, my first PowerShell script, and my first *“wait... that actually worked?”* moment, I realized the future of beauty is not just products. It is **AI, personalization, automation, data, and secure digital experiences.**
+
+So I decided not to choose between beauty and technology. I’m building at the intersection of both.
+
+Behind every viral lipstick, there is infrastructure. Behind every personalized skincare recommendation, there is AI. Behind every beauty app, there is cloud. Behind every secure customer account, there is identity management.
+
+And somewhere in the middle is me — learning, building, documenting, breaking labs, fixing labs, and occasionally explaining to my computer that we are both doing our best.
+
+---
+
+<div align="center">
+
+# ✨ Welcome To My Cloud Home ✨
+
+</div>
+
+<p align="center">
+  💄 I keep my <b>head in the clouds</b> ☁️ and my <b>hands on the keyboard</b> ⌨️. <br/>
+  🌸 A beauty-tech world built around AI, Azure, identity, automation, and customer experience. 🌸
+</p>
+
+---
+
+<div align="center">
+
+# 🌌 Cloud Glam Thoughts 🌌
+
+</div>
+
+<p align="center">
+ 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️-Head%20in%20the%20Clouds-66CCFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💭-Daydreaming%20About%20Beauty%20Tech-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Gets%20a%20Seat%20at%20the%20Vanity-87CEEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐-Identity%20Is%20Always%20in%20Style-C084FC?style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+
+# ✨ The Runway ✨
+
+*Choose a room and make yourself at home.*
+
+</div>
+
+Every room in the House represents a chapter of my journey — from beauty professional to cloud engineer, AI explorer, and future beauty-tech innovator.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💄 Beauty Tech
+
+**Where beauty meets technology.**
+
+AI beauty concepts, customer experience, digital beauty innovation, industry inspiration, and future product ideas.
+
+<p align="center">
+<a href="https://github.com/ValOnCloud404/Beauty-Tech">
+<img src="https://img.shields.io/badge/🚪%20Enter%20the%20Room-FF69B4?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Atelier
+
+**Where curiosity meets computation.**
+
+Prompt engineering, AI experiments, Copilots, generative AI, and the future of beauty technology.
+
+<p align="center">
+<a href="https://github.com/ValOnCloud404/AI-Atelier">
+<img src="https://img.shields.io/badge/🚪%20Enter%20the%20Room-87CEEB?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Lounge
+
+**Infrastructure, but make it beautiful.**
+
+Azure labs, cloud infrastructure, networking, virtual machines, and hands-on learning.
+
+<p align="center">
+<a href="https://github.com/ValOnCloud404/Cloud-Lounge">
+<img src="https://img.shields.io/badge/🚪%20Enter%20the%20Room-66CCFF?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Identity Suite
+
+**Because security never goes out of style.**
+
+Microsoft Entra ID, Active Directory, RBAC, identity management, Windows Server, and security labs.
+
+<p align="center">
+<a href="https://github.com/ValOnCloud404/Identity-Suite">
+<img src="https://img.shields.io/badge/🚪%20Enter%20the%20Room-C084FC?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### ⚡ Automation Studio
+
+**Automating the magic behind the scenes.**
+
+PowerShell, automation, scripting, admin tools, and everything that saves time.
+
+<p align="center">
+<a href="https://github.com/ValOnCloud404/Automation-Studio">
+<img src="https://img.shields.io/badge/🚪%20Enter%20the%20Room-FFD700?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  💖 More rooms are coming soon as the House continues to grow.
+</p>
+
+---
+
+<div align="center">
+
+# 🤖 AI Mood Board 🤖
+
+*Ideas today. Innovation tomorrow.*
+
+</div>
+
+AI is the new wave, and I plan to leverage it.
+
+This is where I collect beauty-tech AI ideas, product concepts, and future projects I want to build.
+
+* 💄 AI that matches foundation shades from a selfie
+* 🧴 A skincare routine assistant powered by weather, skin goals, and product data
+* 📸 An AI tool that turns beauty content into marketing campaign ideas
+* 🛍️ A virtual beauty advisor that remembers customer preferences
+* 🧠 A customer success copilot for beauty advisors
+* 🌍 An AI trend dashboard for beauty conversations across social platforms
+
+AI is not replacing creativity here.
+
+It is getting a seat at the vanity.
+
+---
+
+<div align="center">
+
+# 🌙 Vibe Check 🌙
+
+*Current status of the House.*
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ValOnCloud404/ValOnCloud404/main/assets/vibe-cloud.gif" width="120" alt="cloud vibe"/>
+</p>
+
+<p align="center">
+  ☁️ Cloud engineer in the making <br/>
+  💄 Beauty tech dreamer <br/>
+  🤖 AI-curious and building with intention <br/>
+  🔐 Security • Identity • “wait let me document this first” energy <br/>
+  🌙 Learn • Break • Fix • Document • Repeat <br/>
+  ☕ Fueled by caffeine, configs, and curiosity
+</p>
+
+<p align="center">
+  <b>"I do not just work in the cloud — I daydream it into reality, one glamorous lab at a time."</b>
+</p>
+
+---
+
+<div align="center">
+
+# 🛠️ Skills & Tools 🛠️
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-66CCFF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-C084FC?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra%20ID-DA70D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-FF69B4?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Concepts-87CEEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Beauty%20Tech-FFB6C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%20Server-BA55D3?style=for-the-badge&logo=windowsserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-66CCFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-FFD700?style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me 🌐
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/ValOnCloud404">
+    <img src="https://img.shields.io/badge/GitHub-BA55D3?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/valentina-scott-855010385/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Stats 📊
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValOnCloud404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=87CEEB&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValOnCloud404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" height="165" />
+</p>
+
+
+
+<p align="center">
+  <i>Thank you for visiting the House of Valentina Esperanza.</i><br/>
+  <i>Beauty • Cloud • AI • Identity</i><br/>
+  <i>Built with curiosity. Styled with creativity. Always under construction.</i>
+</p>
+
+
+
