@@ -1,5 +1,5 @@
-<img width="1200" height="400" alt="house_of_valentina_realistic" src="https://github.com/user-attachments/assets/03b42a90-09e3-4e0c-b1a0-c797d068931b" />
-
+<div align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
 
 
 
@@ -25,9 +25,8 @@ Behind every viral lipstick, there is infrastructure. Behind every personalized 
 And somewhere in the middle is me — learning, building, documenting, breaking labs, fixing labs, and occasionally explaining to my computer that we are both doing our best.
 
 
-<div align="center">
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
 
+<img width="1200" height="400" alt="house_of_valentina_realistic" src="https://github.com/user-attachments/assets/03b42a90-09e3-4e0c-b1a0-c797d068931b" />
 
 
 
