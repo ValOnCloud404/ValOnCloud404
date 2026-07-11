@@ -6,7 +6,7 @@
 
 </div>
 
-💄✨ Hi, I'm **Valentina** — founder of the **House of Valentina Esperanza** and proud resident of **ValOnCloud404** ✨☁️
+✨ Hi, I'm **Valentina** — founder of the **House of Valentina Esperanza** and proud resident of **ValOnCloud404** ✨
 
 Welcome to my page. This is my little corner of the cloud where beauty, AI, identity, automation, and real projects come together.
 
@@ -14,7 +14,8 @@ Before I was spinning up Azure resources, writing Python scripts, or wondering w
 
 Beauty taught me how to understand people, create memorable experiences, solve problems quickly, and help others feel confident.
 
-Then I discovered cloud computing.
+Then I discovered cloud computing.....
+
 
 Somewhere between my first Azure lab, my first PowerShell script, and my first *“wait... that actually worked?”* moment, I realized the future of beauty is not just products. It is **AI, personalization, automation, data, and secure digital experiences.**
 
