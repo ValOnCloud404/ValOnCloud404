@@ -1,10 +1,8 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=FF69B4&center=true&vCenter=true&width=1000&lines=☁️+Welcome+to+My+Cloud+Home+☁️;✨+House+of+Valentina+Esperanza+✨;💄+Building+the+Future+of+Beauty+Tech+💄;🤖+AI+for+Beautiful+Customer+Experiences+🤖;☁️+Dreaming+in+Azure+☁️;⚡+Building+One+Commit+at+a+Time+⚡;🔐+Identity+is+Always+in+Style+🔐;🌸+Where+Cloud+Daydreams+Become+Beautiful+Technology+🌸" alt="Typing SVG" />
 </p>
+<img width="1961" height="916" alt="image" src="https://github.com/user-attachments/assets/8f2131be-00b3-48e3-ae53-ef00fbf05e0e" />
 
-<h3 align="center">💄 Beauty Tech • 🤖 AI • ☁️ Cloud • 🔐 Identity • ⚡ Automation</h3>
 
 <p align="center">
 <a href="https://github.com/ValOnCloud404/Beauty-Tech">
@@ -28,9 +26,11 @@
 
 <div align="center">
 
-# 💋 The Founder 💋
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=2000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%8B+The+Founder+%F0%9F%92%8B" alt="The Founder" />
 
-*Every great house has a story.*
+<br>
+
+<i>Every great house has a story.</i>
 
 </div>
 
@@ -55,10 +55,21 @@ And somewhere in the middle is me — learning, building, documenting, breaking 
 ---
 
 <div align="center">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
 
-# ✨ Welcome To My Cloud Home ✨
+<div align="center">
+
+<div align="center">
+
+<div align="center">
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=C084FC&center=true&vCenter=true&width=900&lines=Welcome+To+My+Cloud+Home" alt="Typing SVG" />
 
 </div>
+</div>
+
 
 <p align="center">
   💄 I keep my <b>head in the clouds</b> ☁️ and my <b>hands on the keyboard</b> ⌨️. <br/>
@@ -69,7 +80,7 @@ And somewhere in the middle is me — learning, building, documenting, breaking 
 
 <div align="center">
 
-# 🌌 Cloud Glam Thoughts 🌌
+# Cloud Glam Thoughts 
 
 </div>
 
@@ -88,10 +99,15 @@ And somewhere in the middle is me — learning, building, documenting, breaking 
 
 <div align="center">
 
-# ✨ The Runway ✨
+<div align="center">
 
-*Choose a room and make yourself at home.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1800&color=66CCFF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%AA+The+Runway+%F0%9F%9A%AA" alt="Typing SVG" />
 
+<br>
+
+<i>Choose a room and make yourself at home.</i>
+
+</div>
 </div>
 
 Every room in the House represents a chapter of my journey — from beauty professional to cloud engineer, AI explorer, and future beauty-tech innovator.
@@ -276,26 +292,33 @@ It is getting a seat at the vanity.
   </a>
 </p>
 
----
+
+
+## ☕ Before You Go...
+
+Thanks for stopping by my little corner of the cloud.
+
+Whether you’re a recruiter, engineer, fellow learner, or someone who accidentally clicked a GitHub link while looking for skincare tips, I’m really glad you’re here.
+
+Feel free to wander through the rooms, explore a project or two, and come back anytime.
+
+Just ignore the occasional **404**.
+
+**She lives here too.** 💜☁️
+
+<br>
 
 <div align="center">
 
-# 📊 GitHub Stats 📊
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1500&color=F472B6&center=true&vCenter=true&width=650&lines=The+Cloud+Is+My+Canvas+%E2%98%81%EF%B8%8F;Fueled+by+Purpose+and+WiFi+%E2%9C%A8;Welcome+Home+to+ValOnCloud404" alt="Closing typing animation">
+
+<br>
+
+### `ValOnCloud404`
+
+**Head in the clouds. Hands on the keyboard.**
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValOnCloud404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=87CEEB&text_color=FFFFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValOnCloud404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" height="165" />
-</p>
-
-
-
-<p align="center">
-  <i>Thank you for visiting the House of Valentina Esperanza.</i><br/>
-  <i>Beauty • Cloud • AI • Identity</i><br/>
-  <i>Built with curiosity. Styled with creativity. Always under construction.</i>
-</p>
 
 
 
