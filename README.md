@@ -1,13 +1,12 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=2000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%8B+The+Founder+%F0%9F%92%8B" alt="The Founder" />
-
-<div align="center">
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
 
 
 <div align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
 
 
+<div align="center">
+
+<img width="1200" height="400" alt="house_of_valentina_rainbow_bright" src="https://github.com/user-attachments/assets/e83c427c-fda4-49ca-9c1c-a462ec8b8876" />
 
 
 </div>
@@ -31,13 +30,8 @@ Behind every viral lipstick, there is infrastructure. Behind every personalized 
 And somewhere in the middle is me — learning, building, documenting, breaking labs, fixing labs, and occasionally explaining to my computer that we are both doing our best.
 
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=FF69B4&center=true&vCenter=true&width=1000&lines=☁️+Welcome+to+My+Cloud+Home+☁️;✨+House+of+Valentina+Esperanza+✨;💄+Building+the+Future+of+Beauty+Tech+💄;🤖+AI+for+Beautiful+Customer+Experiences+🤖;☁️+Dreaming+in+Azure+☁️;⚡+Building+One+Commit+at+a+Time+⚡;🔐+Identity+is+Always+in+Style+🔐;🌸+Where+Cloud+Daydreams+Become+Beautiful+Technology+🌸" alt="Typing SVG" />
-</p>
-<img width="1961" height="916" alt="image" src="https://github.com/user-attachments/assets/8f2131be-00b3-48e3-ae53-ef00fbf05e0e" />
-
+</div>
+</div>
 
 <p align="center">
 <a href="https://github.com/ValOnCloud404/Beauty-Tech">
@@ -71,7 +65,7 @@ And somewhere in the middle is me — learning, building, documenting, breaking 
 
 <div align="center">
 
-# Cloud Glam Thoughts 
+# Cloud Thoughts 
 
 </div>
 
