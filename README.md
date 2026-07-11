@@ -1,4 +1,5 @@
-<img width="1200" height="400" alt="house_of_valentina_neon_final" src="https://github.com/user-attachments/assets/fea5a4ea-d183-4c5a-8df0-39ba52dfa32a" />
+<img width="1200" height="400" alt="house_of_valentina_bright_final" src="https://github.com/user-attachments/assets/4cd60d6b-3f51-4aba-b90d-6c5cf7ba8d6f" />
+
 
 
 
