@@ -1,3 +1,9 @@
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=120&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=1400&height=220&lines=Welcome"
+    alt="Welcome"
+  />
+</p>
 <div align="center">
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
 
