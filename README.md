@@ -1,9 +1,4 @@
 
-
-<div align="center">
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
-
-
 <div align="center">
 
 <img width="1200" height="400" alt="house_of_valentina_rainbow_bright" src="https://github.com/user-attachments/assets/e83c427c-fda4-49ca-9c1c-a462ec8b8876" />
@@ -28,6 +23,12 @@ So I decided not to choose between beauty and technology. I’m building at the 
 Behind every viral lipstick, there is infrastructure. Behind every personalized skincare recommendation, there is AI. Behind every beauty app, there is cloud. Behind every secure customer account, there is identity management.
 
 And somewhere in the middle is me — learning, building, documenting, breaking labs, fixing labs, and occasionally explaining to my computer that we are both doing our best.
+
+
+<div align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
+
+
 
 
 </div>
