@@ -1,3 +1,38 @@
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=2000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%8B+The+Founder+%F0%9F%92%8B" alt="The Founder" />
+
+<div align="center">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
+
+
+<div align="center">
+
+
+
+
+</div>
+
+💄✨ Hi, I'm **Valentina** — founder of the **House of Valentina Esperanza** and proud resident of **ValOnCloud404** ✨☁️
+
+Welcome to my page. This is my little corner of the cloud where beauty, AI, identity, automation, and real projects come together.
+
+Before I was spinning up Azure resources, writing Python scripts, or wondering why Active Directory was acting brand new, I spent over a decade in the beauty industry as a licensed esthetician, educator, leader and backed with a degree in Biology.
+
+Beauty taught me how to understand people, create memorable experiences, solve problems quickly, and help others feel confident.
+
+Then I discovered cloud computing.
+
+Somewhere between my first Azure lab, my first PowerShell script, and my first *“wait... that actually worked?”* moment, I realized the future of beauty is not just products. It is **AI, personalization, automation, data, and secure digital experiences.**
+
+So I decided not to choose between beauty and technology. I’m building at the intersection of both.
+
+Behind every viral lipstick, there is infrastructure. Behind every personalized skincare recommendation, there is AI. Behind every beauty app, there is cloud. Behind every secure customer account, there is identity management.
+
+And somewhere in the middle is me — learning, building, documenting, breaking labs, fixing labs, and occasionally explaining to my computer that we are both doing our best.
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=FF69B4&center=true&vCenter=true&width=1000&lines=☁️+Welcome+to+My+Cloud+Home+☁️;✨+House+of+Valentina+Esperanza+✨;💄+Building+the+Future+of+Beauty+Tech+💄;🤖+AI+for+Beautiful+Customer+Experiences+🤖;☁️+Dreaming+in+Azure+☁️;⚡+Building+One+Commit+at+a+Time+⚡;🔐+Identity+is+Always+in+Style+🔐;🌸+Where+Cloud+Daydreams+Become+Beautiful+Technology+🌸" alt="Typing SVG" />
 </p>
@@ -22,50 +57,6 @@
 </a>
 </p>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=2000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%8B+The+Founder+%F0%9F%92%8B" alt="The Founder" />
-
-<br>
-
-<i>Every great house has a story.</i>
-
-</div>
-
-💄✨ Hi, I'm **Valentina** — founder of the **House of Valentina Esperanza** and proud resident of **ValOnCloud404** ✨☁️
-
-Welcome to my page. This is my little corner of the cloud where beauty, AI, identity, automation, and real projects come together.
-
-Before I was spinning up Azure resources, writing Python scripts, or wondering why Active Directory was acting brand new, I spent over a decade in the beauty industry as a licensed esthetician, educator, leader and backed with a degree in Biology.
-
-Beauty taught me how to understand people, create memorable experiences, solve problems quickly, and help others feel confident.
-
-Then I discovered cloud computing.
-
-Somewhere between my first Azure lab, my first PowerShell script, and my first *“wait... that actually worked?”* moment, I realized the future of beauty is not just products. It is **AI, personalization, automation, data, and secure digital experiences.**
-
-So I decided not to choose between beauty and technology. I’m building at the intersection of both.
-
-Behind every viral lipstick, there is infrastructure. Behind every personalized skincare recommendation, there is AI. Behind every beauty app, there is cloud. Behind every secure customer account, there is identity management.
-
-And somewhere in the middle is me — learning, building, documenting, breaking labs, fixing labs, and occasionally explaining to my computer that we are both doing our best.
-
----
-
-<div align="center">
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a06409b3-abff-4723-bb3d-ae7ecc1d6ed3" />
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=C084FC&center=true&vCenter=true&width=900&lines=Welcome+To+My+Cloud+Home" alt="Typing SVG" />
 
 </div>
 </div>
@@ -319,6 +310,5 @@ Just ignore the occasional **404**.
 **Head in the clouds. Hands on the keyboard.**
 
 </div>
-
 
 
