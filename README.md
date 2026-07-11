@@ -1,7 +1,6 @@
+<img width="1200" height="400" alt="house_of_valentina_neon_final" src="https://github.com/user-attachments/assets/fea5a4ea-d183-4c5a-8df0-39ba52dfa32a" />
 
-<div align="center">
 
-<img width="1200" height="400" alt="house_of_valentina_rainbow_bright" src="https://github.com/user-attachments/assets/e83c427c-fda4-49ca-9c1c-a462ec8b8876" />
 
 
 </div>
